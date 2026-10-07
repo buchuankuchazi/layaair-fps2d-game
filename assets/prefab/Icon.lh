@@ -1,0 +1,17 @@
+{
+  "_$ver": 1,
+  "_$id": "fccbf5q4",
+  "_$type": "Image",
+  "name": "Icon",
+  "x": 585,
+  "y": 265,
+  "width": 110,
+  "height": 110,
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "82ddb5b0-5159-4383-988e-bc351bce04bb",
+      "scriptPath": "../src/Icon.ts"
+    }
+  ]
+}

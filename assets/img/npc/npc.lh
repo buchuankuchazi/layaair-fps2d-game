@@ -1,0 +1,38 @@
+{
+  "_$ver": 1,
+  "_$id": "vqsl4q6k",
+  "_$type": "Sprite",
+  "name": "npc",
+  "x": 424,
+  "y": 225,
+  "width": 100,
+  "height": 100,
+  "scaleX": 2.5,
+  "scaleY": 2.5,
+  "_$comp": [
+    {
+      "_$type": "aa0027f0-481a-4a2d-ada0-491e92f058d9",
+      "scriptPath": "../src/Npc.ts",
+      "npc": {
+        "_$ref": "vqsl4q6k",
+        "_$type": "aa0027f0-481a-4a2d-ada0-491e92f058d9"
+      }
+    }
+  ],
+  "_$child": [
+    {
+      "_$id": "bi5l7syj",
+      "_$type": "Animation",
+      "name": "Animation",
+      "width": 100,
+      "height": 100,
+      "source": "res://390d9cdc-b3e8-48a9-b1fe-2cf9ffb154e8",
+      "images": [
+        "res://138036b1-3e9b-46a0-8f63-400bf0db5163"
+      ],
+      "interval": 80,
+      "autoPlay": true,
+      "index": 0
+    }
+  ]
+}

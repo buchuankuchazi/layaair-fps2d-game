@@ -1,0 +1,54 @@
+{
+  "_$ver": 1,
+  "_$id": "1921ccwt",
+  "_$type": "Sprite",
+  "name": "npc-1",
+  "x": 589,
+  "y": 263,
+  "width": 100,
+  "height": 100,
+  "scaleX": 2.5,
+  "scaleY": 2.5,
+  "_$comp": [
+    {
+      "_$type": "aa0027f0-481a-4a2d-ada0-491e92f058d9",
+      "scriptPath": "../src/Npc.ts",
+      "npc": {
+        "_$ref": "1921ccwt",
+        "_$type": "aa0027f0-481a-4a2d-ada0-491e92f058d9"
+      },
+      "value": {
+        "_$ref": "u7i6o7t3"
+      }
+    }
+  ],
+  "_$child": [
+    {
+      "_$id": "bi5l7syj",
+      "_$type": "Animation",
+      "name": "Animation",
+      "width": 100,
+      "height": 100,
+      "source": "res://390d9cdc-b3e8-48a9-b1fe-2cf9ffb154e8",
+      "images": [
+        "res://138036b1-3e9b-46a0-8f63-400bf0db5163"
+      ],
+      "interval": 80,
+      "autoPlay": true,
+      "index": 0
+    },
+    {
+      "_$id": "u7i6o7t3",
+      "_$type": "Label",
+      "name": "Label",
+      "y": -10,
+      "width": 35,
+      "height": 17,
+      "text": "10",
+      "fontSize": 11,
+      "color": "#FFFFFF",
+      "valign": "top",
+      "padding": "0,0,0,0"
+    }
+  ]
+}

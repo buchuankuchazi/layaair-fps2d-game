@@ -1,0 +1,17 @@
+{
+  "_$ver": 1,
+  "_$id": "9bqdw12m",
+  "_$type": "Image",
+  "name": "gun",
+  "x": 288.0000000000001,
+  "width": 32,
+  "height": 16,
+  "useSourceSize": true,
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "be75ea94-12fe-4294-b875-45600ee9a707",
+      "scriptPath": "../src/gun.ts"
+    }
+  ]
+}

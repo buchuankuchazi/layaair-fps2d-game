@@ -1,0 +1,74 @@
+{
+  "_$type": "Animator2D",
+  "enabled": true,
+  "controllerLayers": [
+    {
+      "name": "Base Layer",
+      "defaultStateName": "run-dai",
+      "playOnWake": true,
+      "blendingMode": 0,
+      "states": [
+        {
+          "name": "run-dai",
+          "clip": {
+            "_$uuid": "1122af3d-6a94-4d5b-9826-dd46435dd16c"
+          },
+          "loop": -1,
+          "speed": 1,
+          "clipEnd": 1,
+          "x": 733.5055615943426,
+          "y": 69.35947340174889,
+          "id": "0",
+          "soloTransitions": [
+            {
+              "id": "1",
+              "exitByTime": true,
+              "exitTime": 1
+            }
+          ]
+        },
+        {
+          "x": 10,
+          "y": 100,
+          "_isLooping": 0,
+          "id": "-1",
+          "name": "进入",
+          "speed": 1,
+          "clipEnd": 1,
+          "soloTransitions": [
+            {
+              "id": "0"
+            }
+          ]
+        },
+        {
+          "x": 1066,
+          "y": 100,
+          "_isLooping": 0,
+          "id": "-2",
+          "name": "任何状态",
+          "speed": 1,
+          "clipEnd": 1
+        },
+        {
+          "x": 782,
+          "y": 198,
+          "_isLooping": 0,
+          "id": "1",
+          "name": "run-dai 0",
+          "speed": 1,
+          "clipEnd": 1,
+          "clip": {
+            "_$uuid": "1122af3d-6a94-4d5b-9826-dd46435dd16c"
+          },
+          "loop": -1,
+          "soloTransitions": []
+        }
+      ],
+      "defaultWeight": 1,
+      "stageX": 2,
+      "stageY": 65
+    }
+  ],
+  "layerW": 150
+}

@@ -1,0 +1,66 @@
+{
+  "_$ver": 1,
+  "_$id": "maio0tlp",
+  "_$type": "Sprite",
+  "name": "card",
+  "width": 100,
+  "height": 100,
+  "_$comp": [
+    {
+      "_$type": "ff3982ce-675a-4052-88e3-d20db8f9514d",
+      "scriptPath": "../src/xinxi.ts",
+      "card": {
+        "_$ref": "maio0tlp"
+      },
+      "name": {
+        "_$ref": "ihuk4isv"
+      },
+      "zhans": {
+        "_$ref": "c8fda6sy"
+      },
+      "mingci": {
+        "_$ref": "y8x35vu5"
+      }
+    }
+  ],
+  "_$child": [
+    {
+      "_$id": "y8x35vu5",
+      "_$type": "Label",
+      "name": "names",
+      "width": 120,
+      "height": 28,
+      "text": "",
+      "fontSize": 20,
+      "color": "#FFFFFF",
+      "valign": "top",
+      "padding": "0,0,0,0"
+    },
+    {
+      "_$id": "ihuk4isv",
+      "_$type": "Label",
+      "name": "name",
+      "x": 119,
+      "width": 120,
+      "height": 28,
+      "text": "",
+      "fontSize": 20,
+      "color": "#FFFFFF",
+      "valign": "top",
+      "padding": "0,0,0,0"
+    },
+    {
+      "_$id": "c8fda6sy",
+      "_$type": "Label",
+      "name": "highest",
+      "x": 370,
+      "width": 120,
+      "height": 28,
+      "text": "",
+      "fontSize": 20,
+      "color": "#FFFFFF",
+      "valign": "top",
+      "padding": "0,0,0,0"
+    }
+  ]
+}

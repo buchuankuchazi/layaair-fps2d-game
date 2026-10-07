@@ -1,0 +1,92 @@
+{
+  "frames": {
+    "lights1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 17,
+        "y": 34,
+        "w": 10,
+        "h": 10
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 3
+      }
+    },
+    "lights2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 18,
+        "y": 17,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "lights3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 18,
+        "y": 0,
+        "w": 16,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "lights4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 18,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "lights5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "meta": {
+    "scale": 1
+  }
+}

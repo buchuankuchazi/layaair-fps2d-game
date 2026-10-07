@@ -1,0 +1,19 @@
+{
+  "_$ver": 1,
+  "_$id": "014x99wo",
+  "_$type": "Animation",
+  "name": "dai",
+  "x": 958,
+  "y": 71,
+  "width": 13.59999999999997,
+  "height": 16.999999999999936,
+  "scaleX": 10,
+  "scaleY": 10,
+  "source": "res://42fd026b-41a7-47f8-960d-cd177b5ce3e1",
+  "images": [
+    "res://8a35570e-a329-4889-a574-d93cd8c78985"
+  ],
+  "interval": 50,
+  "autoPlay": true,
+  "index": 5
+}

@@ -1,0 +1,126 @@
+{
+  "frames": {
+    "pa-1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 30,
+        "y": 18,
+        "w": 13,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 15
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "pa-2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 15,
+        "y": 19,
+        "w": 13,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 16
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "pa-3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 30,
+        "y": 0,
+        "w": 13,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 16
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "pa-4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 17
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "pa-5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 15,
+        "y": 0,
+        "w": 13,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 17
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "pa-6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 19,
+        "w": 13,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 17
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "pa-7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 30,
+        "y": 35,
+        "w": 13,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 15
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "meta": {
+    "scale": 1
+  }
+}

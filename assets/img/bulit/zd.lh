@@ -1,0 +1,22 @@
+{
+  "_$ver": 1,
+  "_$id": "0kv8cm7d",
+  "_$type": "Image",
+  "name": "zd",
+  "x": 49.25,
+  "y": 520.25,
+  "width": 10,
+  "height": 9,
+  "skin": "res://d95c4c09-3759-487a-be80-ce47886294e4",
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "89c5e522-c09f-4ea2-8742-1403495b84e5",
+      "scriptPath": "../src/Bulit.ts",
+      "zd": {
+        "_$ref": "0kv8cm7d",
+        "_$type": "89c5e522-c09f-4ea2-8742-1403495b84e5"
+      }
+    }
+  ]
+}

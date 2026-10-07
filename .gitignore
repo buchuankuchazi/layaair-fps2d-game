@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+temp
+library
+local
+release
+node_modules
+# 保留 bin/js/bundles（编译产物），方便他人直接用浏览器打开 bin/index.html 查看界面
+.vscode/
+.idea/
+*.log

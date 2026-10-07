@@ -1,0 +1,17 @@
+{
+  "_$ver": 1,
+  "_$id": "jwhfofi5",
+  "_$type": "Image",
+  "name": "性别",
+  "x": 572.9999999999999,
+  "y": 255,
+  "width": 130,
+  "height": 130,
+  "color": "#ffffff",
+  "_$comp": [
+    {
+      "_$type": "a2cd558b-4d04-4d63-a3c4-9aa31a83f81d",
+      "scriptPath": "../src/xingBie.ts"
+    }
+  ]
+}
